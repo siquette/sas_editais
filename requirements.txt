@@ -1,0 +1,6 @@
+streamlit==1.36.0
+google-genai>=1.0.0
+python-docx==1.1.2
+docxtpl==0.19.0
+pydantic==2.7.4
+python-dotenv==1.0.1
